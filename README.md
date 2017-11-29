@@ -1,4 +1,4 @@
-* This addon is under development and doesn't have any configuration settings for now. Use it on your own risk. *
+** This addon is under development and doesn't have any configuration settings for now. Use it on your own risk. **
 
 
 # ember-i18n-import-export
