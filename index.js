@@ -1,6 +1,6 @@
 /* eslint-env node */
 'use strict';
-const commands = require('./addon/commands');
+const commands = require('./lib/commands');
 
 module.exports = {
   name: 'ember-i18n-import-export',
