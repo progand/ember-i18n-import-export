@@ -1,6 +1,6 @@
 {
   "name": "ember-i18n-import-export",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "The default blueprint for ember-cli addons.",
   "keywords": [
     "ember-addon",
@@ -14,7 +14,7 @@
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "",
+  "repository": "https://github.com/progand/ember-i18n-import-export",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
